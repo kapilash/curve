@@ -27,9 +27,11 @@ include_directories(${curve_SOURCE_DIR})
 
 set(SOURCES
    Jwt.cpp
+   ByteString.h
    Curve.h
    AdAuth.cpp
    Http.cpp
+   ByteString.cpp
    Utils.cpp)
 
 

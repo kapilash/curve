@@ -17,6 +17,7 @@
 #ifndef _WIN32
 #include <stddef.h>
 #endif
+#include "ByteString.h"
 #ifdef __cplusplus
 extern "C" {
 #endif
